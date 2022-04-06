@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647994346 source:c:\users\biblioteca\desktop\vitor eduardo\codeblocks\aula22-03\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
